@@ -3,7 +3,7 @@
   "short_name": "Sample",
   "icons": [{
     "src": "img/sample-icon.png",
-      "sizes": "180x180",
+      "sizes": "64x64",
       "type": "image/png"
     }],
   "lang": "en-US",
